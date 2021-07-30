@@ -22,14 +22,16 @@ p{
 
 .flexible-container{
     display: flex;
-    p
+    
 }
 
 .half-width{
     width: 50%;
     
 }
-
+.half-width img{
+    width: 60%;
+}
 
 .link-button{
     text-decoration: none;
@@ -40,4 +42,9 @@ p{
     border-radius: 80px;
 
 
+}
+
+.centering-place{
+    text-align: center;
+    color: rgb(105, 105, 109);
 }
